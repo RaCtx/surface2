@@ -1,0 +1,3 @@
+[submodule "submarines2"]
+	path = submarines2
+	url = git@github.com:RaCtx/submarines2.git
